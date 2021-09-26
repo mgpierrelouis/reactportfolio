@@ -1,0 +1,45 @@
+[
+    {
+        "title": "ShareSpace",
+        "image": "images/sharespacescreen.png",
+        "description": "Messageboard style applicaiton that allows users to create an account, login, and share content.",
+        "github": "https://github.com/Errollinsjr/ShareSpaceProjectTwo",
+        "app": "https://evening-sea-74828.herokuapp.com/"        
+    },
+    {
+        "title": "NBA Player Search Engine",
+        "image": "./images/nbasearch.png",
+        "description": "Search engine that uses API calls to return stats, info, and GIFs of current and former NBA players",
+        "github": "https://github.com/Jason-M-Bailey/nbaplayersearch",
+        "app": "https://Jason-M-Bailey.github.io/nbaplayersearch"        
+    },
+    {
+        "title": "Random Password Generator",
+        "image": "../images/password.png",
+        "description": "Simple JS app that generates a random password given parameters chosen by the user",
+        "github": "https://github.com/mgpierrelouis/May_15_HW/",
+        "app": "https://mgpierrelouis.github.io/May_15_HW/"        
+    },
+    {
+        "title": "Webpage Refactor",
+        "image": "./images/webpagedemo.png",
+        "description": "Example of clean, concise coding refactor",
+        "github": "https://github.com/mgpierrelouis/May_01_HW",
+        "app": "https://mgpierrelouis.github.io/May_01_HW/"        
+    },
+    {
+        "title": "JavaScript Quiz",
+        "image": "./images/jsquiz.png",
+        "description": "Simple yet dynamic timed quiz using JS",
+        "github": "https://github.com/mgpierrelouis/May_22_HW/",
+        "app": "https://mgpierrelouis.github.io/May_22_HW/"        
+    },
+    {
+        "title": "Employee Directory",
+        "image": "./images/employeedirectory.png",
+        "description": "Data table created with REACT that allows user to sort contact information of 'Employees' ",
+        "github": "https://github.com/mgpierrelouis/employee_directory",
+        "app": "https://mgpierrelouis.github.io/employee_directory/"        
+    }
+    
+]
