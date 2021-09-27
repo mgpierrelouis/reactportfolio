@@ -2,6 +2,7 @@
 import Project from './components/Project'
 import Header from "./components/Header"
 import Footer from "./components/Footer"
+import AboutMe from "./components/About"
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.css'
 
@@ -11,8 +12,9 @@ import 'bootstrap/dist/css/bootstrap.css'
 function App() {
   return (
     <>
-      <Header/>
-      <Project/>
+      <Header />
+      <Project />
+      <AboutMe />
       <Footer />
     </>
   );
