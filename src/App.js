@@ -3,7 +3,7 @@ import Project from './components/Project'
 import Header from "./components/Header"
 import Footer from "./components/Footer"
 import AboutMe from "./components/About"
-import {Route, Switch, Link} from 'react-router-dom'
+import {Route, HashRouter Switch, Link} from 'react-router-dom'
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.css'
 
