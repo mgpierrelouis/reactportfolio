@@ -1,5 +1,7 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.css'
+import './index.css'
+
 
 function Footer() {
     return (
@@ -21,10 +23,10 @@ function Footer() {
                         <h3 className="text-center" style={{color: 'white'}}>Websites</h3>
                         <ul className= "list-unstyled" style={{justifyContent: 'center'}}>
                             <li className="text-center" style= {{color: 'white'}}>
-                                <a href = "https://github.com/mgpierrelouis/">Github</a>
+                                <a  className="footer-links" href = "https://github.com/mgpierrelouis/">Github</a>
                             </li>
                             <li className = "text-center" style= {{color: 'white'}}>
-                                <a href = "https://www.linkedin.com/in/michael-pierre-louis-7163b2bb/">Linkedin</a>
+                                <a className= "footer-links" href = "https://www.linkedin.com/in/michael-pierre-louis-7163b2bb/">Linkedin</a>
                             </li>
                         </ul>                        
                     </div>
