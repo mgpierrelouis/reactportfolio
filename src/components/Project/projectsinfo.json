@@ -9,7 +9,7 @@
     {
         "title": "NBA Player Search Engine",
         "image": "./images/nbasearch.png",
-        "description": "Search engine that uses API calls to return stats, info, and GIFs of current and former NBA players",
+        "description": "Search engine that uses API calls to return stats, info, and GIFs of current and former NBA players.",
         "github": "https://github.com/Jason-M-Bailey/nbaplayersearch",
         "app": "https://Jason-M-Bailey.github.io/nbaplayersearch"        
     },
