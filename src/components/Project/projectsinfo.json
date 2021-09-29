@@ -18,21 +18,21 @@
         "image": "../images/password.png",
         "description": "Simple JS app that generates a random password given parameters chosen by the user",
         "github": "https://github.com/mgpierrelouis/May_15_HW/",
-        "app": "https://mgpierrelouis.github.io/May_15_HW/"        
+        "app": "https://mgpierrelouis.github.io/Random_Password_Generator/"        
     },
     {
         "title": "Webpage Refactor",
         "image": "./images/webpagedemo.png",
         "description": "Example of clean, concise coding refactor",
         "github": "https://github.com/mgpierrelouis/May_01_HW",
-        "app": "https://mgpierrelouis.github.io/May_01_HW/"        
+        "app": "https://mgpierrelouis.github.io/Code_Refactor/"        
     },
     {
         "title": "JavaScript Quiz",
         "image": "./images/jsquiz.png",
         "description": "Simple yet dynamic timed quiz using JS",
         "github": "https://github.com/mgpierrelouis/May_22_HW/",
-        "app": "https://mgpierrelouis.github.io/May_22_HW/"        
+        "app": "https://mgpierrelouis.github.io/JS_Quiz/"        
     },
     {
         "title": "Employee Directory",
