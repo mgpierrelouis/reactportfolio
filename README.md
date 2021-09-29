@@ -27,7 +27,7 @@ The React Portfolio app is a mobile responsive app provides links to previous ap
 - [Deployed Application](https://mgpierrelouis.github.io/reactportfolio/)
 - [Github Repository](https://github.com/mgpierrelouis/reactportfolio/)
 
-## Licences
+## Licenses
 
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
